@@ -3,4 +3,4 @@ Short python program that will calculate the users' age based on the current dat
 
 *Ken Valverde's submission for 'Coding Problem 1' for CIS 2348 Homework 1, Summer 2020*
 
-![](demo.gif)
+![Demo](gif/demo.gif)
